@@ -96,15 +96,15 @@
     "cioc":""
 },
 {
-    "name":"Zimbabwe",
+    "name":"Corozal",
     "topLevelDomain":[".zw"],
     "alpha2Code":"ZW",
     "alpha3Code":"ZWE",
     "callingCodes":["263"],
-    "capital":"Harare",
+    "capital":"Tillets",
     "altSpellings":["ZW",
     "Republic of Zimbabwe"],
-    "region":"Africa",
+    "region":"1:30 pm",
     "subregion":"Eastern Africa",
     "population":14240168,
     "latlng":[-20.0,
