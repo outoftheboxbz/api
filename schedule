@@ -54,17 +54,17 @@
 
 ,
 {
-    "name":"Åland Islands",
+    "name":"Orange Walk Town",
     "topLevelDomain":[".ax"],
     "alpha2Code":"AX",
     "alpha3Code":"ALA",
     "callingCodes":["358"],
-    "capital":"Mariehamn",
+    "capital":"Tillets",
     "altSpellings":["AX",
     "Aaland",
     "Aland",
     "Ahvenanmaa"],
-    "region":"Europe",
+    "region":"1:45 pm",
     "subregion":"Northern Europe",
     "population":28875,
     "latlng":[60.116667,
@@ -88,94 +88,11 @@
         "de": "Åland", "es": "Alandia", "fr": "Åland", "ja": "オーランド諸島", "it": "Isole Aland", "br": "Ilhas de Aland", "pt": "Ilhas de Aland", "nl": "Ålandeilanden", "hr": "Ålandski otoci", "fa": "جزایر الند"
     }
     ,
-    "flag":"https://restcountries.eu/data/ala.svg",
+    "flag":"http://api.ideasolutionsbz.com/icon.png",
     "regionalBlocs":[ {
         "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": []
     }
     ],
     "cioc":""
-},
-{
-    "name":"Corozal",
-    "topLevelDomain":[".zw"],
-    "alpha2Code":"ZW",
-    "alpha3Code":"ZWE",
-    "callingCodes":["263"],
-    "Bus Line":"Tillets",
-    "altSpellings":["ZW",
-    "Republic of Zimbabwe"],
-    "Departure Time":"1:30 pm",
-    "subregion":"Eastern Africa",
-    "population":14240168,
-    "latlng":[-20.0,
-    30.0],
-    "demonym":"Zimbabwean",
-    "area":390757.0,
-    "gini":null,
-    "timezones":["UTC+02:00"],
-    "borders":["BWA",
-    "MOZ",
-    "ZAF",
-    "ZMB"],
-    "nativeName":"Zimbabwe",
-    "numericCode":"716",
-    "currencies":[ {
-        "code": "BWP", "name": "Botswana pula", "symbol": "P"
-    }
-    ,
-    {
-        "code": "GBP", "name": "British pound", "symbol": "£"
-    }
-    ,
-    {
-        "code": "CNY", "name": "Chinese yuan", "symbol": "¥"
-    }
-    ,
-    {
-        "code": "EUR", "name": "Euro", "symbol": "€"
-    }
-    ,
-    {
-        "code": "INR", "name": "Indian rupee", "symbol": "₹"
-    }
-    ,
-    {
-        "code": "JPY", "name": "Japanese yen", "symbol": "¥"
-    }
-    ,
-    {
-        "code": "ZAR", "name": "South African rand", "symbol": "Rs"
-    }
-    ,
-    {
-        "code": "USD", "name": "United States dollar", "symbol": "$"
-    }
-    ,
-    {
-        "code": "(none)", "name": null, "symbol": null
-    }
-    ],
-    "languages":[ {
-        "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English"
-    }
-    ,
-    {
-        "iso639_1": "sn", "iso639_2": "sna", "name": "Shona", "nativeName": "chiShona"
-    }
-    ,
-    {
-        "iso639_1": "nd", "iso639_2": "nde", "name": "Northern Ndebele", "nativeName": "isiNdebele"
-    }
-    ],
-    "translations": {
-        "de": "Simbabwe", "es": "Zimbabue", "fr": "Zimbabwe", "ja": "ジンバブエ", "it": "Zimbabwe", "br": "Zimbabwe", "pt": "Zimbabué", "nl": "Zimbabwe", "hr": "Zimbabve", "fa": "زیمباوه"
-    }
-    ,
-    "flag":"http://api.ideasolutionsbz.com/icon.png",
-    "regionalBlocs":[ {
-        "acronym": "AU", "name": "African Union", "otherAcronyms": [], "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
-    }
-    ],
-    "cioc":"ZIM"
 }
 ]
